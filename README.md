@@ -1,8 +1,11 @@
 Essam Benamar
+
 evb5593@psu.edu
+
 CMPSC 487W
 
 I used Next.js for this project, alongside Firebase
+
 I encoded the images as strings to avoid having to pay for Firebase storage (there is a size limit)
 
 Additional notes on features not mentioned in the requirements:
